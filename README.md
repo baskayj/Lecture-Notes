@@ -1,5 +1,5 @@
 # Lecture-Notes
-Here are some of the notes I took.
+In this repository you can find all the bearable lecture notes I took.
 
 ## ELTE Physicist MSc.
 * ### 2019/20/1 Semester
